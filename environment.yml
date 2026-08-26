@@ -1,0 +1,26 @@
+name: ds
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - pyarrow
+  - polars
+  - duckdb
+  - sqlalchemy
+  - matplotlib
+  - plotly
+  - jupyterlab
+  - ipykernel
+  - requests
+  - tqdm
+  - joblib
+  - pytest
+  - ruff
+  - black
+  - pre-commit
+prefix: /home/dmdgxs/miniforge3/envs/ds

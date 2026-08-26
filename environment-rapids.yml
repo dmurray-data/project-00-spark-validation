@@ -1,0 +1,11 @@
+name: rapids
+channels:
+  - conda-forge
+dependencies:
+  - rapids=26.6
+  - python=3.12
+  - cuda-version=13.0
+  - jupyter
+  - hdbscan
+  - umap-learn
+prefix: /home/dmdgxs/miniforge3/envs/rapids
