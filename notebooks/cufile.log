@@ -1,2 +1,0 @@
- 29-08-2026 01:41:56:17 [pid=796884 tid=796884] NOTICE  cufio-drv:851 running in compatible mode
- 29-08-2026 01:41:56:446 [pid=796884 tid=796884] ERROR  cufio-fs:80 mount option not found in mount table data device: /dev/nvme0n1p2
