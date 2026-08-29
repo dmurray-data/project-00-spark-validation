@@ -31,3 +31,4 @@ models/
 
 # Cache
 .cache/
+notebooks/cufile.log
